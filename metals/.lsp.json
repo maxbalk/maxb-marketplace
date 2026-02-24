@@ -5,7 +5,7 @@
       "args": [],
       "extensionToLanguage": {
         ".scala": "scala",
-        ".sbt": "scala
+        ".sbt": "scala"
       }
     }
   }
