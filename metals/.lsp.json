@@ -1,0 +1,12 @@
+{
+  "lspServers": {
+    "scala": {
+      "command": "metals",
+      "args": [],
+      "extensionToLanguage": {
+        ".scala": "scala",
+        ".sbt": "scala
+      }
+    }
+  }
+}

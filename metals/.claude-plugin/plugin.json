@@ -1,0 +1,8 @@
+{
+  "name": "metals",
+  "description": "scala lsp",
+  "version": "0.0.1",
+  "author": {
+    "name": "swoop"
+  }
+}

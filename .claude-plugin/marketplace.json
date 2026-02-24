@@ -1,0 +1,13 @@
+{  
+  "name": "swoop-marketplace",
+  "owner": {
+    "name": "max",
+    "email": "maximumbalk@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "metals",
+      "source": "./metals"
+    }
+  ]
+}
