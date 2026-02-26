@@ -1,7 +1,7 @@
 # Claude Code plugins
 
-1) in the /plugin menu, navigate to marketplaces and install git@github.com:maxbalk/maxb-marketplace.git
-2) select the plugin to install
+1) in the /plugin menu, navigate to marketplaces and install `git@github.com:maxbalk/maxb-marketplace.git`
+2) select the language server plugin(s) to install
 3) restart claude code
 
 ## Metals
