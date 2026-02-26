@@ -1,6 +1,6 @@
 {
   "name": "metals",
-  "description": "scala lsp",
+  "description": "scala language server",
   "version": "0.0.2",
   "author": {
     "name": "max"

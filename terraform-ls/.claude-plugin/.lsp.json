@@ -1,0 +1,10 @@
+{
+  "terraform": {
+    "command": "terraform-ls serve",
+    "args": [],
+    "extensionToLanguage": {
+      ".tf": "terraform",
+      ".hcpl": "terraform"
+    }
+  }
+}

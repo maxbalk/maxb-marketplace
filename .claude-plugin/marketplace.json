@@ -8,6 +8,10 @@
     {
       "name": "metals",
       "source": "./metals"
+    },
+    {
+      "name": "terraform-ls",
+      "source": "./terraform-ls"
     }
   ]
 }
